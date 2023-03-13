@@ -4,11 +4,11 @@
 
 2 - run etl_script.sh 
 
-what etl_script do:
+  ->What etl_script do:
 
-Extract data from text file
+    -Extract data from text file
 
-Transform the extracted data to a CSV file.
+    -Transform the extracted data to a CSV file.
 
-Load the CSV file to my postgreSQL database.
+    -Load the CSV file to my postgreSQL database.
 
